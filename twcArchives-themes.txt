@@ -1,0 +1,31 @@
+|Source|https://github.com/wangyenshu/twcArchives-themes/blob/master/twcArchives-themes.txt|
+|Version|0.1|
+//{{{
+[
+  {
+    "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/bauwebijl/bauwebijl.txt",
+    "description": "themes from http://bauwebijl.tiddlyspace.com",
+    "type": "collection"
+  },
+  {
+    "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/mptw/mptw.txt",
+    "description": "themes from mptw",
+    "type": "collection"
+  },
+  {
+    "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/osmosoft/osmosoft.txt",
+    "description": "themes from osmosoft.com",
+    "type": "collection"
+  },
+  {
+    "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/pmario/pmario.txt",
+    "description": "themes from pmario",
+    "type": "collection"
+  },
+  {
+    "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/tiddlytools/tiddlytools.txt",
+    "description": "themes from tiddlytools",
+    "type": "collection"
+  }
+]
+//}}}
