@@ -1,0 +1,22 @@
+|Source|https://github.com/wangyenshu/twcArchives-themes/blob/master/bauwebijl/bauwebijl.txt|
+|Version|0.1|
+//{{{
+[
+  {
+    "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/bauwebijl/BasaltTheme.tiddler",
+    "description": "''Description''a ''~TiddlySpace'' theme: http://bauwebijl.tiddlyspace.com/#BasaltThemeInfo"
+  },
+  {
+    "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/bauwebijl/DropTheme.tiddler",
+    "description": "''Description''a ''~TiddlySpace'' theme: http://bauwebijl.tiddlyspace.com/#DropThemeInfo"
+  },
+  {
+    "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/bauwebijl/HeadlessTheme.tiddler",
+    "description": "''Description''a ''~TiddlySpace'' theme: http://bauwebijl.tiddlyspace.com/#HeadlessThemeInfo"
+  },
+  {
+    "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/bauwebijl/HowtoosTheme.tiddler",
+    "description": "''Description''a ''~TiddlySpace'' theme: http://bauwebijl.tiddlyspace.com/#HowtoosThemeInfo"
+  }
+]
+//}}}

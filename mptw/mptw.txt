@@ -1,0 +1,22 @@
+|Source|https://github.com/wangyenshu/twcArchives-themes/blob/master/mptw/mptw.txt|
+|Version|0.1|
+//{{{
+[
+  {
+    "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/mptw/MptwRoundTheme.tiddler",
+    "description": "Mptw Theme with some rounded corners (Firefox only)"
+  },
+  {
+    "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/mptw/MptwStandardTheme.tiddler",
+    "description": "Mptw Theme with the default TiddlyWiki PageLayout and Styles"
+  },
+  {
+    "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/mptw/MptwTheme.tiddler",
+    "description": "Mptw Theme including custom PageLayout"
+  },
+  {
+    "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/mptw/MptwTrimTheme.tiddler",
+    "description": "Mptw Theme with a reduced header to increase useful space"
+  }
+]
+//}}}

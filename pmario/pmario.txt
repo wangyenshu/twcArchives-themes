@@ -1,0 +1,30 @@
+|Source|https://github.com/wangyenshu/twcArchives-themes/blob/master/pmario/pmario.txt|
+|Version|0.1|
+//{{{
+[
+  {
+    "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/pmario/TWDefaultTheme.tiddler",
+    "description": "Your description here!"
+  },
+  {
+    "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/pmario/NeUIemTheme03.tiddler",
+    "description": "Changes the right sidebar"
+  },
+  {
+    "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/pmario/NeUIemTheme01.tiddler",
+    "description": "Changes the right sidebar"
+  },
+  {
+    "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/pmario/NeUIemTheme04.tiddler",
+    "description": "Play with the toolbar visibility"
+  },
+  {
+    "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/pmario/NeUIemTheme.tiddler",
+    "description": "Your description here!"
+  },
+  {
+    "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/pmario/NeUIemTheme02.tiddler",
+    "description": "Changes the right sidebar"
+  }
+]
+//}}}

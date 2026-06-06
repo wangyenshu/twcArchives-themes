@@ -1,0 +1,14 @@
+|Source|https://github.com/wangyenshu/twcArchives-themes/blob/master/osmosoft/osmosoft.txt|
+|Version|0.1|
+//{{{
+[
+  {
+    "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/osmosoft/smmTheme.tiddler",
+    "description": ""
+  },
+  {
+    "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/osmosoft/purpleTheme.tiddler",
+    "description": "A theme with lots of white space and a clean and elegant purple presentation"
+  }
+]
+//}}}
