@@ -3,10 +3,12 @@
 //{{{
 [
   {
+    "name": "smmTheme",
     "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/osmosoft/smmTheme.tiddler",
     "description": ""
   },
   {
+    "name": "purpleTheme",
     "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/osmosoft/purpleTheme.tiddler",
     "description": "A theme with lots of white space and a clean and elegant purple presentation"
   }

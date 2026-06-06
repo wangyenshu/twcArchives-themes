@@ -3,26 +3,32 @@
 //{{{
 [
   {
+    "name": "TWDefaultTheme",
     "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/pmario/TWDefaultTheme.tiddler",
     "description": "Your description here!"
   },
   {
+    "name": "NeUIemTheme03",
     "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/pmario/NeUIemTheme03.tiddler",
     "description": "Changes the right sidebar"
   },
   {
+    "name": "NeUIemTheme01",
     "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/pmario/NeUIemTheme01.tiddler",
     "description": "Changes the right sidebar"
   },
   {
+    "name": "NeUIemTheme04",
     "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/pmario/NeUIemTheme04.tiddler",
     "description": "Play with the toolbar visibility"
   },
   {
+    "name": "NeUIemTheme",
     "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/pmario/NeUIemTheme.tiddler",
     "description": "Your description here!"
   },
   {
+    "name": "NeUIemTheme02",
     "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/pmario/NeUIemTheme02.tiddler",
     "description": "Changes the right sidebar"
   }

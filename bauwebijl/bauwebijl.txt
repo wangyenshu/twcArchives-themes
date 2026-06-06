@@ -3,18 +3,22 @@
 //{{{
 [
   {
+    "name": "BasaltTheme",
     "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/bauwebijl/BasaltTheme.tiddler",
     "description": "''Description''a ''~TiddlySpace'' theme: http://bauwebijl.tiddlyspace.com/#BasaltThemeInfo"
   },
   {
+    "name": "DropTheme",
     "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/bauwebijl/DropTheme.tiddler",
     "description": "''Description''a ''~TiddlySpace'' theme: http://bauwebijl.tiddlyspace.com/#DropThemeInfo"
   },
   {
+    "name": "HeadlessTheme",
     "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/bauwebijl/HeadlessTheme.tiddler",
     "description": "''Description''a ''~TiddlySpace'' theme: http://bauwebijl.tiddlyspace.com/#HeadlessThemeInfo"
   },
   {
+    "name": "HowtoosTheme",
     "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/bauwebijl/HowtoosTheme.tiddler",
     "description": "''Description''a ''~TiddlySpace'' theme: http://bauwebijl.tiddlyspace.com/#HowtoosThemeInfo"
   }

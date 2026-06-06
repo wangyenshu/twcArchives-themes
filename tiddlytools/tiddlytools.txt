@@ -3,38 +3,47 @@
 //{{{
 [
   {
+    "name": "Blackout",
     "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/tiddlytools/Blackout.tiddler",
     "description": "theme: black/blue-gray/gray backgrounds w/light text"
   },
   {
+    "name": "DefaultTheme",
     "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/tiddlytools/DefaultTheme.tiddler",
     "description": "Default systemTheme definition"
   },
   {
+    "name": "EdgeOfNight",
     "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/tiddlytools/EdgeOfNight.tiddler",
     "description": "theme: dark blue sunset photo background"
   },
   {
+    "name": "LetsGetTanked",
     "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/tiddlytools/LetsGetTanked.tiddler",
     "description": "theme: dark blue fishtank photo background"
   },
   {
+    "name": "Plain",
     "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/tiddlytools/Plain.tiddler",
     "description": "theme: white backgrounds with minimal adjustments"
   },
   {
+    "name": "SideBySide",
     "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/tiddlytools/SideBySide.tiddler",
     "description": "default theme with side-by-side editor/preview display"
   },
   {
+    "name": "Textures",
     "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/tiddlytools/Textures.tiddler",
     "description": "theme: stone/parchment backgrounds"
   },
   {
+    "name": "TotallyTiddlers",
     "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/tiddlytools/TotallyTiddlers.tiddler",
     "description": "theme: hide everything but tiddler content"
   },
   {
+    "name": "Woodshop",
     "url": "https://github.com/wangyenshu/twcArchives-themes/blob/master/tiddlytools/Woodshop.tiddler",
     "description": "theme: rustic look - dark/med/light wood backgrounds"
   }
